@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background-color: #333;
+    color: #f2f2f2;
+}
+
+.msg {
+    left: 40%;
+    width: 20%;
+    height: 160px;
+    background-color: #f2f2f2;
+    color: #333;
+}
